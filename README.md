@@ -1,6 +1,6 @@
 # ESP32-C6 WeAct 2.9-inch Epaper Module Display-Info
 
-This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-C6 Supermini device" available here:
+This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-C6 Supermini device" available here: https://medium.com/@androidcrypto/getting-started-with-a-2-9-inch-epaper-display-connected-to-an-esp32-c6-supermini-device-ce3a4bb6d2a6
 
 ![Image 1](./images/esp32_c6_epaper_04_600w.png)
 
