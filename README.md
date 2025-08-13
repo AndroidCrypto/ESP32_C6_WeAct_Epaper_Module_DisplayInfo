@@ -38,4 +38,6 @@ Nr name  color   ESP32-C6 pin
 7  GND   black   GND
 8  VCC   red     VCC is 3.3 volt, not 5 volt !
 ````
-![Image 3](./images/esp32_c6_epaper_03_600w.png)
+Back side of the display:
+
+![Image 2](./images/esp32_c6_epaper_03_600w.png)
